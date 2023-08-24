@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dongmanqing.github.io//sitemap.xml
+Sitemap: https://dongmanqing.github.io/sitemap.xml
