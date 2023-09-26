@@ -1,9 +1,9 @@
 ---
 layout: distill
-title: a distill-style blog post
+title: Example distill page
 description: an example of a distill-style blog post and main elements
 tags: templates
-giscus_comments: true
+giscus_comments: false
 date: 2021-05-22
 featured: false
 
