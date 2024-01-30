@@ -16,6 +16,26 @@
     bundle install
     bundle exec jekyll serve --lsi
    ```
-   
 
+
+### If python version is not correct, use pyenv
+1. Check python 
+   ```bash
+   python --version
+   ```
+2. If no python. Check if pyenv is activated
+   ```bash
+   pyenv --version
+   ```
+3. If no pyenv, activate pyenv
+   ```bash
+   export PATH="$HOME/.pyenv/bin:$PATH"
+   eval "$(pyenv init --path)"
+   eval "$(pyenv virtualenv-init -)"
+   ```
+
+4. Set the python version
+```bash
+pyenv local 3.9.18
+```
 
