@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: Postdoctoral Research Fellow
+subtitle: Applied AI/ML Researcher
 
 profile:
   align: right
@@ -20,6 +20,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I currently serve as a Postdoctoral Research Fellow at Macquarie University, where I am fortunate to work under the guidance of Professor Longbing Cao. Prior to this role, I was a two-year applied researcher at eBay, and I completed my Ph.D. in Computer Science and Engineering at UNSW, where I was privileged to be mentored by Professors Lina Yao and Boualem Benatallah.
+I am an applied researcher with a keen interest in Large Language Models (LLMs) and their applications. I was a two-year applied researcher at eBay, and I completed my Ph.D. in Computer Science and Engineering at UNSW, where I was privileged to be mentored by Professors Lina Yao and Boualem Benatallah.
 
 My research specialization centers on the domains of machine learning and deep learning methodologies, with a specific emphasis on natural language processing and anomaly detection.
